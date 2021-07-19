@@ -1,2 +1,2 @@
-This Repository contains the various important algorithms and problems predefined in competitive programming
+This Repository contains the various important data structures and algorithms that I have learned.
 
